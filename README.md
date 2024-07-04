@@ -43,5 +43,4 @@ https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classificati
 ## Acknowledgements
 
  - Thanks to the PSG Institute of Technology and Applied Research for supporting this project.
- - Refer to the references section in the paper for additional resources and related work.
  - Special thanks to the contributors of the Kaggle dataset used in this study.
